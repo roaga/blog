@@ -15,7 +15,11 @@ In my free time, I enjoy reading, painting and drawing, and playing guitar. In t
 ### Contact me
 
 [Email](mailto:ro.agarwal@hotmail.com)
+
 [Personal Site](roaga.github.io)
+
 [LinkedIn](linkedin.com/in/r-agarwal)
+
 [GitHub](github.com/roaga)
+
 [Medium](https://medium.com/@agrwl.rohan)
