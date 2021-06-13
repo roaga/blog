@@ -12,6 +12,8 @@ I'm also working on a startup, [Notitia](notitiaworks.com): the AI sticky note t
 
 In my free time, I enjoy reading, painting and drawing, and playing guitar. In the past, I've gone through AI research, art scholarships, and numerous side projects. Find more below!
 
+NYC <-> ATL
+
 ### Contact me
 
 [Email](mailto:ro.agarwal@hotmail.com)
