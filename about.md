@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![Rohan Agarwal](/images/RohanPhoto.jpg)
+![Rohan Agarwal](/images/20200515_180206.jpg)
 
 I'm studying CS at the Georgia Institute of Technology. There, I'm taking lots of interesting classes, building software for liquid-fueled rockets, leading software projects for the Google DSC, creating video game AI, and much more! 
 
