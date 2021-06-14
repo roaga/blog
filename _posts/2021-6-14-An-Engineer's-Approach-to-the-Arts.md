@@ -3,7 +3,7 @@ layout: post
 title: An Engineer's Approach to the Arts
 ---
 
-When I make art, every image, both what I'm looking at and what's on my canvas, is an evolving, dynamic structure. [[My Inspiration]]
+When I make art, every image, both what I'm looking at and what's on my canvas, is an evolving, dynamic structure.
 
 Take this image of a still life. ![[stillife.jpg]] Of course, the table is a structure. One dark plane facing us and another angled back toward the ceiling. 
 
