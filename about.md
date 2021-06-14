@@ -16,12 +16,12 @@ NYC <-> ATL
 
 ### Contact me
 
-[Email](mailto:ro.agarwal@hotmail.com)
+[Email](https://us6.list-manage.com/contact-form?u=a5d513a7641adabd212fc49e3&form_id=c27dc84f3921e89d6c9d64a3f597c553)
 
-[Personal Site](roaga.github.io)
+[Personal Site](https://roaga.github.io)
 
-[LinkedIn](linkedin.com/in/r-agarwal)
+[LinkedIn](https://linkedin.com/in/r-agarwal)
 
-[GitHub](github.com/roaga)
+[GitHub](https://github.com/roaga)
 
 [Medium](https://medium.com/@agrwl.rohan)
