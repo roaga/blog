@@ -2,14 +2,14 @@
 layout: post
 title: An Engineer's Approach to the Arts
 ---
-I grew up in New York City. I watched massive machines construct new parks, new subway stations, and new buildings, some plain and some beautiful, some utilitarian and some soaring in the sky. I watched art come and go from the Met Museum, even my own, and I watched the grass grow in Central Park. I watched it all in a movie, then saw what had changed since then in reality. I saw a dynamic city evolve over time. **Point is, I grew up to love building things.**
+I grew up in New York City. I watched massive machines construct new parks, new subway stations, and new buildings, some plain and some beautiful, some utilitarian and some soaring in the sky. I watched art come and go from the Met Museum, even my own, and I watched the grass grow in Central Park. I watched it all in a movie, then saw what had changed since then in reality. I saw a dynamic city evolve over time. Point is, I grew up to love building things.
 
-My love for art and computer science developed in parallel, starting with my first independent exposure to them in fifth grade, but both were always grounded in this fascination with evolving, dynamic structures.
+My love for art and computer science developed in parallel, starting with my first independent exposure to them in fifth grade, but both were always grounded in this fascination with *evolving, dynamic structures.*
 
 ![]({{ site.baseurl }}/images/billionairesrow.jpg)
 
-When I make art, every image, both what I'm looking at and what's on my canvas, is an evolving, dynamic structure.
-
+**When I make art, every image, both what I'm looking at and what's on my canvas, is an evolving, dynamic structure.
+**
 Take this image of a still life. ![]({{ site.baseurl }}/images/stillife.jpg.jpg) Of course, the table is a structure. One dark plane facing us and another angled back toward the ceiling. 
 
 But let's look at the wood grain. How would you render it? A lot of people would create loose, swirly, free-flowing lines (a perfectly good approach). My mind refuses to do that. I'd rather turn everything into a plane of color, sometimes layered and sometimes pushing into each other like steel bars. A rich, light yellowish brown underneath with streaks of pastel red, with dark brown skewering and joining it all.
@@ -21,7 +21,7 @@ This approach isn't necessarily better, but I always found it natural for myself
 Look at this wave I etched out with a stick of metal, for example. Etched metal is as structural as it gets, and flowing water is the exact opposite. But building it up from pieces gave me something I liked.![]({{ site.baseurl }}/images/WaveArt.jpg.jpg)
 
 ### The Connection to Engineering and Computers
-Yes, this could just be abstract thinking, not engineering, but isn't that what engineering is all about? Designing complex systems from little components that come together to communicate a single vision (or function)?
+Yes, this could just be abstract thinking, not engineering, but isn't that what engineering is all about? _Designing complex systems from little components that come together to communicate a single vision (or function)?_
 
 In software engineering, an application can be broken into multiple pieces, steps, or functions to capture, transport, flow, or output data. Every algorithm is a bunch of steps, often from another algorithm. Every line of code is just a bunch of assembly instructions. And every assembly instruction is a series of states, and...so on. 
 
