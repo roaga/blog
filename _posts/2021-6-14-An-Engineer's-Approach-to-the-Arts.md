@@ -2,6 +2,11 @@
 layout: post
 title: An Engineer's Approach to the Arts
 ---
+I grew up in New York City. I watched massive machines construct new parks, new subway stations, and new buildings, some plain and some beautiful, some utilitarian and some soaring in the sky. I watched art come and go from the Met Museum, even my own, and I watched the grass grow in Central Park. I watched it all in a movie, then saw what had changed since then in reality. I saw a dynamic city evolve over time. **Point is, I grew up to love building things.**
+
+My love for art and computer science developed in parallel, starting with my first independent exposure to them in fifth grade, but both were always grounded in this fascination with evolving, dynamic structures.
+
+![]({{ site.baseurl }}/images/billionairesrow.jpg)
 
 When I make art, every image, both what I'm looking at and what's on my canvas, is an evolving, dynamic structure.
 
