@@ -9,7 +9,7 @@ Everyone asks this question and on one ever agrees, so I'll just pick one charac
 Let's talk about art's ability to capture a moment in time, in the physical world, the culture of a society, of a subgroup, the emotions of a person or some other mental landscape. Whatever it is, no matter how dynamic it is, it's a slice of a certain perspective belonging to a slice of time. You might disagree, but I think it applies broadly to most if not all of what I've ever seen called art. 
 
 ### The Connection to Software
-Previously, I talked about how software engineering influences my art, but it goes the other way around to for me. I developed both interests in parallel.
+Previously, [I talked about how software engineering influences my art](https://roaga.github.io/blog/An-Engineer's-Approach-to-the-Arts/), but it goes the other way around to for me. I developed both interests in parallel.
 
 *Does software capture a moment in time?*
 
