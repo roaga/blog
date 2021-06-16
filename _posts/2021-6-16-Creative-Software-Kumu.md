@@ -7,7 +7,7 @@ Here's just one piece of creative software I've used over the past year: [kumu.i
 
 My team and I have used it to organize tons of research and insights while working on [Notitia](https://notitiaworks.com) 
 
-Here's an example of tons of research on misinformation and attempted solutions: https://embed.kumu.io/d6a2158a5b61f8db29aa879e077981f1
+Here's an example of tons of research on misinformation and attempted solutions: [Notitia's original systems map](https://embed.kumu.io/d6a2158a5b61f8db29aa879e077981f1)
 
 We're currently using it to analyze our customer discovery interviews.
 
