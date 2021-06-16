@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Creative Software - Kumu.io
+title: Kumu.io as Creative Software
 ---
 
 Here's just one piece of creative software I've used over the past year: [kumu.io](https://kumu.io)
