@@ -14,7 +14,9 @@ It's quite a nice homey store, with natural colors and materials and quirky meta
 
 What really draws my attention, however, is how those elements parallel Google's software and hardware design. 
 - First off, natural feel and tactility is the whole philosophy of Material Design (not sure about the new Material You, though). 
-- The natural colors fit right in line with Google's hardware line, almost as a soft color contrast, which makes sense, since that is what the store sells. ![Pixels](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/09/google-pixel-5-and-pixel-4a-5g-family.jpg)
-- The wiring is reminiscent of Google's art style, like this doodle: ![doodle](http://www.google.com/logos/doodles/2020/stay-and-play-at-home-with-popular-past-google-doodles-coding-2017-6753651837108765-2xa.gif)
+- The natural colors fit right in line with Google's hardware line, almost as a soft color contrast, which makes sense, since that is what the store sells. 
+![Pixels](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/09/google-pixel-5-and-pixel-4a-5g-family.jpg)
+- The wiring is reminiscent of Google's art style, like this doodle: 
+![doodle](http://www.google.com/logos/doodles/2020/stay-and-play-at-home-with-popular-past-google-doodles-coding-2017-6753651837108765-2xa.gif)
 
 This type of brand consistency is something I love. It's not something you notice right away, but you feel it when you walk into a store or open up a new product.
