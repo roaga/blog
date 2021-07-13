@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Designing for Unbiased Usage
+title: Designing Technology for Unbiased Understanding of Information
 ---
 
 This is a bit of an update on the AI detective board for customer discovery, [Notitia](https://notitiaworks.com).
